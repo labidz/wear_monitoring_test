@@ -1,0 +1,50 @@
+dataset,fold,w,clock
+NASA,S1,0.35,"{'kind': 'gbm', 'depth': 2}"
+NASA,S4,0.3,"{'kind': 'gbm', 'depth': 3}"
+NASA,S3,0.3,"{'kind': 'gbm', 'depth': 3}"
+NASA,S2,0.15,{'kind': 'taylor'}
+NASA,S7,0.5,"{'kind': 'gbm', 'depth': 2}"
+NASA,S8,0.25,{'kind': 'taylor'}
+NASA,S6,0.4,"{'kind': 'gbm', 'depth': 2}"
+NASA,S5,0.3,"{'kind': 'gbm', 'depth': 2}"
+PHM2010,c1,0.7,"{'kind': 'gbm', 'depth': 2}"
+PHM2010,c4,1.0,"{'kind': 'gbm', 'depth': 2}"
+PHM2010,c6,0.95,"{'kind': 'gbm', 'depth': 3}"
+DENKENA,M1,0.65,{'kind': 'taylor'}
+DENKENA,M2,1.0,"{'kind': 'gbm', 'depth': 2}"
+DENKENA,M3,0.8,{'kind': 'taylor'}
+NUAA,W1,1.0,{'kind': 'taylor'}
+NUAA,W2,1.0,{'kind': 'taylor'}
+NUAA,W3,1.0,"{'kind': 'gbm', 'depth': 3}"
+NUAA,W4,1.0,"{'kind': 'gbm', 'depth': 3}"
+NUAA,W5,1.0,"{'kind': 'gbm', 'depth': 3}"
+NUAA,W6,0.95,"{'kind': 'gbm', 'depth': 3}"
+NUAA,W7,0.95,"{'kind': 'gbm', 'depth': 3}"
+NUAA,W8,0.95,"{'kind': 'gbm', 'depth': 3}"
+NUAA,W9,1.0,"{'kind': 'gbm', 'depth': 3}"
+VICOMTECH,V10,0.2,{'kind': 'taylor'}
+VICOMTECH,V11,0.1,{'kind': 'taylor'}
+VICOMTECH,V12,0.15,{'kind': 'taylor'}
+VICOMTECH,V13,0.1,{'kind': 'taylor'}
+VICOMTECH,V14,0.05,{'kind': 'taylor'}
+VICOMTECH,V15,0.15,{'kind': 'taylor'}
+VICOMTECH,V16,0.15,{'kind': 'taylor'}
+VICOMTECH,V3,0.15,{'kind': 'taylor'}
+VICOMTECH,V4,0.15,{'kind': 'taylor'}
+VICOMTECH,V5,0.15,{'kind': 'taylor'}
+VICOMTECH,V6,0.15,{'kind': 'taylor'}
+VICOMTECH,V7,0.15,{'kind': 'taylor'}
+VICOMTECH,V9,0.15,{'kind': 'taylor'}
+HAAS,H10,1.0,"{'kind': 'gbm', 'depth': 2}"
+HAAS,H101,0.95,"{'kind': 'gbm', 'depth': 2}"
+HAAS,H102,0.95,"{'kind': 'gbm', 'depth': 3}"
+HAAS,H103,1.0,"{'kind': 'gbm', 'depth': 2}"
+HAAS,H105,1.0,"{'kind': 'gbm', 'depth': 2}"
+HAAS,H2,0.95,"{'kind': 'gbm', 'depth': 3}"
+HAAS,H3,1.0,"{'kind': 'gbm', 'depth': 2}"
+HAAS,H4,1.0,"{'kind': 'gbm', 'depth': 2}"
+HAAS,H5,0.95,"{'kind': 'gbm', 'depth': 2}"
+HAAS,H6,1.0,"{'kind': 'gbm', 'depth': 2}"
+HAAS,H7,0.95,"{'kind': 'gbm', 'depth': 3}"
+HAAS,H8,0.95,"{'kind': 'gbm', 'depth': 3}"
+HAAS,H9,1.0,"{'kind': 'gbm', 'depth': 2}"
