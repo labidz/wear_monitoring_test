@@ -1,0 +1,18 @@
+73ed76f 2026-11-02 09:09:48 +0600 Authors, affiliation, CRediT, funding, data/code availability; GitHub-ready repository with relative paths (verified to reproduce NASA results exactly)
+eba4d97 2026-11-02 09:03:12 +0600 All confirmatory results in; re-framed to the evidence (what transfers depends on what changes); Table 3 with feature learners; review round 2
+6c6b09b 2026-11-01 23:12:40 +0600 Sensitivity results (three-pass reference, Hannover force, sensorless) in text; status before usage-limit pause
+7caef6b 2026-11-01 22:50:44 +0600 Sensitivity analyses, loader fix for checkpoint files, configurable torch threads; sensorless and Haas B3 results into text
+1fcbf6a 2026-11-01 21:49:16 +0600 Per-fold checkpoint/resume in evaluate.py (verified identical to uninterrupted run); decision table; text fixes
+4b817b1 2026-11-01 21:43:35 +0600 CIRP reference style generator, 32 verified citations, screened-dataset disclosure, decisions paragraph, limitations
+5ba58e7 2026-11-01 21:34:17 +0600 Primary contrasts, inner-CV recording, fusion-weight diagnostic, cross-dataset figures; manuscript sections 1-6 drafted for six datasets; CIRP 2026 format rules
+07cf326 2026-11-01 21:15:34 +0600 v3: Haas adapter, extra pre-cut conditions (c_ columns), decision limit 0.9 of life
+f680cb8 2026-11-01 21:14:37 +0600 Freeze protocol v3 (Haas VF-1, breakage end of life) before any modelling
+e49e7e8 2026-11-01 21:11:16 +0600 Amendment v2-3: zero-fill undefined higher moments of constant Vicomtech segments
+0192bea 2026-11-01 20:58:14 +0600 Amendment v2-2: fast conformal calibration for P3
+ad3327a 2026-11-01 20:28:41 +0600 v2 adapters (NUAA fallback, Vicomtech) and sequential run script
+9b71331 2026-11-01 20:27:24 +0600 Protocol v2 amendment 1: NUAA fallback and Vicomtech as confirmatory sets, rules fixed before modelling
+f4830c8 2026-11-01 18:57:13 +0600 Freeze protocol v2 (clock-load fusion) before any NUAA modelling
+940a404 2026-11-01 18:47:56 +0600 Amendment 4: robust-reference sensitivity analysis, declared before fitting PHM2010/Denkena
+604f064 2026-11-01 18:36:36 +0600 Amendment 3: reuse inner-loop predictions for conformal calibration
+ef005aa 2026-11-01 18:16:41 +0600 Protocol amendments 1-2, pipeline, Kaggle reduction scripts
+b0e21d0 2026-11-01 17:09:37 +0600 Freeze analysis protocol before confirmatory analysis
